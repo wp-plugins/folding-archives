@@ -4,7 +4,7 @@ Plugin Name: Folding Archives
 Description: Displays a animates collapsible archive list.
 Author: <a href="http://www.fubra.com">Ray Viljoen</a>
 Version: 1.0
-Plugin URI: http://www.fubra.com
+Plugin URI: http://catn.com/community/plugins/folding-archives/
 Usage: Requires jQuery 1.4 +.
 */
 // � 2009-2010 Fubra Limited, all rights reserved.
