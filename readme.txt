@@ -1,6 +1,6 @@
 === Folding Archives ===
 Contributors: Fubra, ray.viljoen
-Tags: archives, sidebar, widget, dropdown, animated sidebar
+Tags: archives, sidebar, colapsing, jQuery, widget, dropdown, animated sidebar
 Requires at least: 3.0
 Tested up to: 3.1.1
 Donate Link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=99WUGVV4HY5ZE&lc=GB&item_name=CATN%20Plugins-CDN&item_number=catn-cdn&currency_code=GBP&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
